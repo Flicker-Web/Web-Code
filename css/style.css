@@ -145,7 +145,8 @@ section ul li:before {
 	color: #fec503
 }
 .navbar-default .navbar-collapse {
-	border-color: rgba(255,255,255,.02)
+	border-color: rgba(255, 78, 78, 0.02);
+	background-color: rgba(255, 255, 255, 0.171);
 }
 .navbar-default .navbar-toggle {
 	background-color: #fed136;
@@ -162,7 +163,7 @@ section ul li:before {
 	text-transform: uppercase;
 	font-weight: 600;
 	letter-spacing: 1px;
-	color:#000;
+	color:rgb(0, 0, 0);
 }
 .navbar-default .nav li a:hover,.navbar-default .nav li a:focus {
 	color: #fed136;
